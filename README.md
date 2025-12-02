@@ -44,3 +44,34 @@ The project is fully modular, secure, testable, and optimized as per college req
 ---
 
 ## 📁 Project Structure
+/root-folder
+├── public/ → static assets
+├── src/ → JS, CSS, components
+├── firebase/ → config, auth, db modules
+├── styles/ → global & component styles
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+
+---
+
+## ▶️ How to Run Locally
+
+### 1️⃣ Install Dependencies
+```bash
+npm install
+# OR
+pnpm install
+
+npm run dev
+# OR
+pnpm run dev
+
+
+Balvinder Singh Soni
+GitHub: https://github.com/balvindersingh07
+
+Project: Super Mall Web Application
